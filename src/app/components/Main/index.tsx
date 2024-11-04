@@ -18,7 +18,7 @@ import {
           alignItems={"center"}
           width={'60%'}
           sx={{
-            backgroundImage: "url(https://www.papocarreira.com.br/wp-content/uploads/2019/07/bump-collaboration-colleagues-1068523-1024x670.jpg)",
+            // backgroundImage:
             backgroundSize: 'cover', 
             backgroundPosition: 'center', 
             backgroundRepeat: 'no-repeat',
@@ -38,7 +38,7 @@ import {
           sx={{
             maxWidth: 400,
             width: "100%",
-            boxShadow: '0px 10px 30px rgba(0, 0, 0, 0.3)', // Aumentando a sombra
+            boxShadow: '0px 10px 30px rgba(0, 0, 0, 0.3)', 
             borderRadius: '15px',
             backgroundColor: "#fff"
           }}
